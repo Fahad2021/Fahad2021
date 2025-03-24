@@ -1,10 +1,10 @@
-### Hi there 👋, Abu Saleh Md Fahad
-#### I am Web Developer
-![I am Web Developer](https://arturssmirnovs.github.io/github-profile-readme-generator/images/banner.png)
+### Hi there 👋, Abu Saleh Md. Fahad
+#### I am a Web Developer
+![I am a Web Developer](https://arturssmirnovs.github.io/github-profile-readme-generator/images/banner.png)
 
-I am front end web developer who is passionate about making websites with 100% Client satisfaction.I love to solve realworld problems.
+I am a front-end web developer who is passionate about creating websites that guarantee 100% Client satisfaction. I love solving real-world problems.
 
-Skills: JavaScript/React/Angular/Python/
+Skills: JavaScript/Typescript/Python/Angular/Djano/
 
 - 🔭 I’m currently working on this page. 
 - 💬 Ask me about Web Developer 
